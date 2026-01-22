@@ -1,0 +1,176 @@
+* {
+  text-decoration: none;
+  color: black;
+}
+.navbar {
+  position: relative;
+  display: inline-block;
+}
+
+#nav-link {
+  position: relative;
+  display: inline-block;
+  left: 70%;
+  cursor: pointer;
+  border-radius: 50px;
+  padding: 10px 32px 10px 0;
+  color: White;
+  text-align: center;
+  text-indent: 40px;
+  margin: 0 auto;
+}
+#nav-link a {
+  width: 300px;
+  margin: 2rem;
+}
+
+.inscription {
+  background: url('https://dh3vbjnk0bnfa.cloudfront.net/static/centralauth/images/btn-login-hover.png')
+    no-repeat 5px 5px #00000023;
+  cursor: pointer;
+  border-radius: 50px;
+  padding: 10px 32px 10px 0;
+  color: White;
+  text-align: center;
+  text-indent: 40px;
+  display: inline-block;
+  position: fixed;
+  right: 3.3%;
+}
+
+.connection {
+  background: url('https://dh3vbjnk0bnfa.cloudfront.net/static/centralauth/images/btn-login-hover.png')
+    no-repeat 5px 5px #000000;
+  cursor: pointer;
+  border-radius: 50px;
+  padding: 10px 32px 10px 0;
+  text-align: center;
+  text-indent: 40px;
+  margin: 0 auto;
+  display: inline-block;
+  position: fixed;
+  right: 13%;
+}
+.connection a {
+  color: white;
+}
+.logo {
+  padding: 10px 32px 10px 0;
+  text-indent: 40px;
+  display: inline-block;
+  position: absolute;
+  left: 3%;
+}
+
+.gpt-logo {
+  cursor: pointer;
+  border-radius: 50px;
+  color: White;
+  text-align: center;
+  text-indent: 4px;
+  display: inline-block;
+  position: fixed;
+  top: 13px;
+  width: 40px;
+  height: 23px;
+  left: 2.3%;
+}
+
+#infos {
+  background: url('https://dh3vbjnk0bnfa.cloudfront.net/static/centralauth/images/btn-login-hover.png')
+    no-repeat 5px 5px #00000023;
+  cursor: pointer;
+  border-radius: 50px;
+  padding: 10px 15px 10px 15px;
+  display: inline-block;
+  position: fixed;
+  right: 1%;
+}
+
+.search {
+  background: url('https://dh3vbjnk0bnfa.cloudfront.net/static/centralauth/images/btn-login-hover.png')
+    no-repeat 5px 5px #0000002a;
+  cursor: pointer;
+  border-radius: 55px;
+  padding: 50px 32px 50px;
+  color: White;
+  text-align: left;
+  display: inline-block;
+  position: absolute;
+  right: 35%;
+  left: 30%;
+  top: 45%;
+  width: 630px;
+}
+
+#attach-link {
+  background: url('https://dh3vbjnk0bnfa.cloudfront.net/static/centralauth/images/btn-login-hover.png')
+    no-repeat 5px 5px #00000036;
+  cursor: pointer;
+  border-radius: 50px;
+  padding: 7px 21px 8px 5px;
+  text-align: center;
+  text-indent: 20px;
+  margin: 0 auto;
+  display: inline;
+  position: fixed;
+  top: 53%;
+  right: 63.9%;
+}
+#search-link {
+  background: url('https://dh3vbjnk0bnfa.cloudfront.net/static/centralauth/images/btn-login-hover.png')
+    no-repeat 5px 5px #00000036;
+  cursor: pointer;
+  border-radius: 50px;
+  padding: 7px 21px 8px 5px;
+  text-align: center;
+  text-indent: 20px;
+  margin: 0 auto;
+  display: inline;
+  position: fixed;
+  top: 53%;
+  right: 59%;
+}
+#study-link {
+  background: url('https://dh3vbjnk0bnfa.cloudfront.net/static/centralauth/images/btn-login-hover.png')
+    no-repeat 5px 5px #00000036;
+  cursor: pointer;
+  border-radius: 50px;
+  padding: 7px 21px 8px 5px;
+  text-align: center;
+  text-indent: 20px;
+  margin: 0 auto;
+  display: inline;
+  position: fixed;
+  top: 53%;
+  right: 54.3%;
+}
+
+#image-link {
+  background: url('https://dh3vbjnk0bnfa.cloudfront.net/static/centralauth/images/btn-login-hover.png')
+    no-repeat 5px 5px #00000036;
+  cursor: pointer;
+  border-radius: 50px;
+  padding: 7px 21px 8px 5px;
+  text-align: center;
+  text-indent: 20px;
+  margin: 0 auto;
+  display: inline;
+  position: fixed;
+  top: 53%;
+  right: 47%;
+}
+#voice-link {
+  background: url('https://dh3vbjnk0bnfa.cloudfront.net/static/centralauth/images/btn-login-hover.png')
+    no-repeat 5px 5px #00000036;
+  cursor: pointer;
+  border-radius: 50px;
+  padding: 7px 21px 8px 5px;
+  text-align: center;
+  text-indent: 20px;
+  margin: 0 auto;
+  display: inline;
+  position: fixed;
+  top: 53%;
+  right: 35.5%;
+}
